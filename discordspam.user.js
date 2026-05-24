@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net
 // @version      1.0
 // @description  Type "spam WORD" to start, "stop" to stop.
-// @author       Itz_Krishna
+// @author       Itz_Krishna AKA Everlasting
 // @match        *://*.discord.com/*
 // @grant        none
 // ==/UserScript==
