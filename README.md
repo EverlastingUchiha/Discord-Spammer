@@ -1,15 +1,15 @@
-# Minefun.io Chat Spammer
+# Discord Chat Spammer
 
-A smart auto-text spammer for **minefun.io** that repeats whatever you select.  
+A smart auto-text spammer for **Discord** that repeats whatever you select.  
 Built as a Tampermonkey userscript.
 
-Works on `minefun.io` and all its subdomains.
+Works on **Discord web app** (`discord.com`).
 
 ---
 
 ## Features
 
-- Select any text and it will be spammed repeatedly in chat or DM.
+- Select any text and it will be spammed repeatedly in Discord chat or DM.
 - Works with single letters, words, or full sentences.
 - Example: Select `Everlasting` and spam starts sending `Everlasting` over and over.
 - Example: Select `B` and the letter `B` will be spammed continuously.
@@ -23,13 +23,13 @@ Works on `minefun.io` and all its subdomains.
 
 1. Install a userscript manager like **Tampermonkey**, **Greasemonkey**, or **Violentmonkey**.
 2. Create a new script and paste the full source code.
-3. Save – it will run automatically on `minefun.io` and its subdomains.
+3. Save – it will run automatically on `discord.com`.
 
 ---
 
 ## Usage
 
-1. Type any message in chat or DM.
+1. Type any message in a Discord channel or DM.
 2. Select the text with your mouse.
 3. Press `Ctrl+C` to copy, then `Ctrl+V` to paste.
 4. The selected text will be spammed automatically.
