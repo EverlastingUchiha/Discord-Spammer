@@ -48,6 +48,18 @@ Whatever you select and copy will keep repeating until you stop it.
 
 ---
 
+## Trick – How to Stop Spam
+
+When spam is running and you want to stop it, the spam won't stop because the same text keeps getting pasted. Use this trick:
+
+1. **Before** starting the spam, open another tab and copy (`Ctrl+C`) the word `stop`.
+2. Or while spam is running, **open another browser tab**, type `stop` there and copy it.
+3. Come back to the Discord tab and press `Ctrl+V` – now `stop` will be pasted and the spam will stop.
+
+**Remember:** Always copy `stop` and keep it ready before you start spamming – that's the safest way.
+
+---
+
 ## Author
 
 **Itz_Krishna AKA Everlasting**
