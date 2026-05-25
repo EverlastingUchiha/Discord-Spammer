@@ -63,3 +63,13 @@ When spam is running and you want to stop it, the spam won't stop because the sa
 ## Author
 
 **Itz_Krishna AKA Everlasting**
+
+---
+## ⚠️ Disclaimer
+
+This tool is created strictly for **educational and research purposes** only. 
+
+* **Account Risk:** Automated spamming violates the **Discord Terms of Service (ToS)**. Using this script may result in permanent termination or banning of your Discord account.
+* **No Responsibility:** The developer (`EverlastingUchiha`) assumes absolutely no liability for any bans, restrictions, or damages caused by the misuse of this software.
+* **Use At Your Own Risk:** By downloading or using this script, you agree that you are solely responsible for your actions and any consequences that follow.
+---
